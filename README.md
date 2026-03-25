@@ -9,3 +9,7 @@ Currículo simples de página única com informações pessoais, habilidades e e
 
 ## 👤 Autor
 Ryan Gama
+
+
+## 🔗 Acesse o projeto:
+https://ryangamaa.github.io/CV-de-p-gina-nica/
