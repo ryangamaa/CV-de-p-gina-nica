@@ -1,5 +1,5 @@
 # Currículo - Ryan Gama
-Meu primeiro projeto HTML, sendo feito com orientações do ROADMAP.SH
+Meu primeiro projeto HTML, sendo feito com orientações do ROADMAP
 
 Projeto de CV em HTML de página única.
 
