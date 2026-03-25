@@ -1,7 +1,6 @@
 # Currículo - Ryan Gama
-Meu primeiro projeto HTML, sendo feito com orientações do ROADMAP
 
-Projeto de CV em HTML de página única.
+Meu primeiro projeto HTML.
 
-## 🔗 Acesse o projeto:
+## Projeto online
 https://ryangamaa.github.io/CV-de-p-gina-nica/
