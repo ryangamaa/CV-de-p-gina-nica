@@ -12,4 +12,4 @@ Ryan Gama
 
 
 ## 🔗 Acesse o projeto:
-https://ryangamaa.github.io/CV-de-p-gina-nica/
+https://github.com/ryangamaa/CV-de-p-gina-nica
